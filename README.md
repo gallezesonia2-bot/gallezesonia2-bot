@@ -1,6 +1,10 @@
 <!--Banner-->
 ![Sonia Galleze Banner Image](./banner.png)
 
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ sᴏɴɪᴀ! 
 *Computer Science Student @ ESI Alger*
@@ -21,22 +25,15 @@
 
 ---
 
-<!--About Me Section-->
-<h2 align="center">Aʙᴏᴜᴛ Mᴇ</h2>
-
-<p>Hi, I'm Sonia — a Computer Science student at ESI Alger. I'm into web development, software engineering (logiciel), and data science / AI. I like building things end-to-end: clean interfaces on the frontend, solid architecture on the backend, and increasingly, models and pipelines that make apps smarter. Currently deepening my skills in machine learning and deep learning.</p>
-
-<pre>
- Role      : Computer Science Student @ ESI Alger
- School    : ESI Alger
- Interests : Web Development, Software Engineering, Data Science, Artificial Intelligence
- 📚 Learning  : Machine Learning, Deep Learning
-</pre>
-
----
-
 <!--Tech Stack Section-->
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills animation" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
