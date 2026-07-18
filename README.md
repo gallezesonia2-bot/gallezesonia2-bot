@@ -23,21 +23,15 @@
 
 <!--About Me Section-->
 <h2 align="center">Aʙᴏᴜᴛ Mᴇ</h2>
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+
 <p>Hi, I'm Sonia — a Computer Science student at ESI Alger. I'm into web development, software engineering (logiciel), and data science / AI. I like building things end-to-end: clean interfaces on the frontend, solid architecture on the backend, and increasingly, models and pipelines that make apps smarter. Currently deepening my skills in machine learning and deep learning.</p>
-    </td>
-    <td width="50%" valign="top">
-      <pre>
+
+<pre>
  Role      : Computer Science Student @ ESI Alger
  School    : ESI Alger
  Interests : Web Development, Software Engineering, Data Science, Artificial Intelligence
-📚 Learning  : Machine Learning, Deep Learning
-      </pre>
-    </td>
-  </tr>
-</table>
+ 📚 Learning  : Machine Learning, Deep Learning
+</pre>
 
 ---
 
